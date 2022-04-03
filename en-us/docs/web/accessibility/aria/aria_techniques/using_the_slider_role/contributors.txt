@@ -1,0 +1,16 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/aria/aria_techniques/using_the_slider_role/index.html
+
+# Original Wiki contributors
+nilsgabriel
+deammer
+jmsfwk
+billybonks
+davidbrouillette
+olets
+sashaburchuk
+alexmahan
+rylan
+Sheppy
+anastasia
+hhillen

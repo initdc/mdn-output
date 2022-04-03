@@ -1,0 +1,34 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/glossary/symbol/index.md
+
+# Original Wiki contributors
+mfuji09
+RafeyIqbalRahman
+danielpmichalski
+Zearin_Galaurum
+sideshowbarker
+abbasalamin12
+neverRare
+DwijBavisi
+jinbeomhong
+roanongh
+fscholz
+vpantasenko
+poldridge
+TotalAMD
+chafic
+formatkaka
+Sheppy
+afeder
+daikiueda
+miangraham
+haingh
+AL-X-dev
+rakuco
+hex13
+kdex
+vaniananthuni
+hbloomer
+Andrew_Pfeiffer
+MKJ
+gargsms

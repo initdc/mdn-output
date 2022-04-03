@@ -1,0 +1,15 @@
+# Contributors by commit history
+https://github.com/mdn/content/commits/style/old/files/en-us/web/accessibility/aria/aria_techniques/using_the_link_role/index.html
+
+# Original Wiki contributors
+chrisdavidmills
+Link2Twenty
+obartra
+nellyk
+Marin
+sonicdoe
+Badbits
+danwellman
+Sheppy
+icaaq
+hhillen
